@@ -19,5 +19,3 @@ The members of Group #9, named District 9, will research and present Genres of m
 
 
 
-
-Random Test for the group
