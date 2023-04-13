@@ -10,4 +10,17 @@ Luis Martinez
 
 Rashidah Namutebi
 
+kyle_branch
 The members of Group #9, named District 9, will research and present Genres of music that are most popular by number of streams based on season(1), region/location(2), Gender(3), Age(4) in the past five years from 2018-2023. Kyle updating.
+Ernesto San Miguel
+
+
+
+
+
+
+
+
+
+ 
+ main
