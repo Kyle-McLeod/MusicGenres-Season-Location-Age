@@ -1,5 +1,3 @@
-# Music-Genres---Season-Region-Age
-
 Members of Group #9 (District 9)
 
 Andy Nguyen
@@ -10,23 +8,10 @@ Luis Martinez
 
 Rashidah Namutebi
 
-RashidahN-patch-1
-The members of Group #9, named District 9, will research and present Genres of music that are most popular by number of streams based on season(1), region/location(2), Gender(3), Age(4) in the past five years from 2018-2023.
-This is a test push.
-Testing here 
-
-kyle_branch
-The members of Group #9, named District 9, will research and present Genres of music that are most popular by number of streams based on season(1), region/location(2), Gender(3), Age(4) in the past five years from 2018-2023. Kyle updating.
-Ernesto San Miguel
+Ernesto San Miguel 
 
 
+## Summary
+The music industry has faced numerous challenges over the years, but none are as disruptive as the COVID-19 pandemic. As the world faced a global health crisis and governments implemented lockdown measures, music streaming continued to be an important part of people's daily lives. According to our analysis of the impact of COVID-19 on music streaming consumption, there was an increase in streaming due to the number of people that were at home, while at the same time, there was a shift in what people were searching for.
 
-
-
-
-
-
-
- 
- main
-main
+Through our research, we found that the COVID-19 outbreak increased the number of streams on the platform, as individuals had more free time available to utilize music streaming services. We have investigated the impact of COVID-19 on music consumption habits using data collected during the pandemic initial impact from 2019 to 2020. Our analysis reveals that music streaming consumption increased significantly during the pandemic as a result of the lockdown measures and increased time spent at home.
