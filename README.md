@@ -1,3 +1,7 @@
+## Topic:
+
+Spotify trends in the year 2019 and 2020.
+
 Members of Group #9 (District 9)
 
 Andy Nguyen
@@ -9,6 +13,8 @@ Luis Martinez
 Rashidah Namutebi
 
 Ernesto San Miguel 
+
+
 
 ## Questions:
 Is there any major differences in music streaming between the year of COVID and the year of 2019? What is the most popular genre amongst them all and when is music streaming at an all time high?
