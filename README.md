@@ -1,8 +1,8 @@
-## Topic:
+## Topic/Goal:
 
-Spotify trends in the year 2019 and 2020.
+Spotify trends in the year 2019 and 2020. District 9 sets out to find any trends or information by gathering data from the popular streaming app Spotify. The group will look at data from year 2019 and year 2020 to compare any differences or similarties. 
 
-Members of Group #9 (District 9)
+## Members of Group #9 (District 9)
 
 Andy Nguyen
 
