@@ -10,10 +10,10 @@ Rashidah Namutebi
 
 Ernesto San Miguel 
 
-##Questions:
+## Questions:
 Is there any major differences in music streaming between the year of COVID and the year of 2019? What is the most popular genre amongst them all and when is music streaming at an all time high?
 
-##Hypothesis:
+## Hypothesis:
 District 9 believed music streaming volume would increase significantly and Pop music would reign as the supreme  genre during the COVID pandemic because people still wanted to stay connected through music. 
 
 
