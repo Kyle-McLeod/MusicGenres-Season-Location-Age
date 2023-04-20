@@ -28,3 +28,5 @@ District 9 believed music streaming volume would increase significantly and Pop 
 The music industry has faced numerous challenges over the years, but none are as disruptive as the COVID-19 pandemic. As the world faced a global health crisis and governments implemented lockdown measures, music streaming continued to be an important part of people's daily lives. According to our analysis of the impact of COVID-19 on music streaming consumption, there was an increase in streaming due to the number of people that were at home, while at the same time, there was a shift in what people were searching for.
 
 Through our research, we found that the COVID-19 outbreak increased the number of streams on the platform, as individuals had more free time available to utilize music streaming services. We have investigated the impact of COVID-19 on music consumption habits using data collected during the pandemic initial impact from 2019 to 2020. 
+
+![image](https://user-images.githubusercontent.com/126118569/233495504-ea5fb364-5dc9-42ea-ae1e-fbf2e70602d5.png)
