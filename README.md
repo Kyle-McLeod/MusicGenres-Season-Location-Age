@@ -31,6 +31,28 @@ The music industry has faced numerous challenges over the years, but none are as
 
 Through our research, we found that the COVID-19 outbreak increased the number of streams on the platform, as individuals had more free time available to utilize music streaming services. We have investigated the impact of COVID-19 on music consumption habits using data collected during the pandemic initial impact from 2019 to 2020. 
 
+  x_axis = np.arange(0,len(trimonths))
+tick_locations=[]
+for x in x_axis:
+    tick_locations.append(x)
+    
+plt.plot(x_axis, trimonthly_streams2020, color = "red", alpha = .5 , linewidth = "1", marker = "^", label = "2020 Stream Count")
+plt.plot(x_axis,trimonthly_streams2019, color = "blue", alpha =.5, linewidth ="1", marker ="o", label = "2019 Stream Count")
+plt.title("Spotify Stream Counts in the Year 2019 vs 2020")
+plt.xlabel("Trimonths")
+plt.ylabel("Stream Count by Billions")
+ax = plt.gca()
+ax.set_ylim([2e10, 2.7e10])
+#plt.ticklabel_format(axis='y', style='sci', scilimits = (0,0))
+
+
+plt.legend(loc="best")
+plt.xticks(tick_locations,trimonths)
+plt.grid()
+plt.show()
+
+
+
 ![image](https://user-images.githubusercontent.com/126118569/233495504-ea5fb364-5dc9-42ea-ae1e-fbf2e70602d5.png)
 
 
