@@ -34,4 +34,4 @@ Through our research, we found that the COVID-19 outbreak increased the number o
 ![image](https://user-images.githubusercontent.com/126118569/233495504-ea5fb364-5dc9-42ea-ae1e-fbf2e70602d5.png)
 
 
-![pic 1](https://github.com/Kyle-McLeod/MusicGenres-Season-Location-Age/assets/126118569/168cd7f6-8995-438b-a41a-47c87f38c3fb)
+![pic 1](https://github.com/Kyle-McLeod/MusicGenres-Season-Location-Age/assets/126118569/3a6662c7-48a8-42fa-9a61-d7cf5a797624)
