@@ -31,6 +31,11 @@ The music industry has faced numerous challenges over the years, but none are as
 
 Through our research, we found that the COVID-19 outbreak increased the number of streams on the platform, as individuals had more free time available to utilize music streaming services. We have investigated the impact of COVID-19 on music consumption habits using data collected during the pandemic initial impact from 2019 to 2020. 
 
+Required to split the music into 9 different genres. Too many of the songs had sub-genres such as pop-punk, Baltimore Rap, Trap House, Trap City, Club House, Back House, etc.
+![pic 1](https://github.com/Kyle-McLeod/MusicGenres-Season-Location-Age/assets/126118569/9656f909-2926-43a4-895e-723208d55f75)
+
+
+
 ![pic 1](https://github.com/Kyle-McLeod/MusicGenres-Season-Location-Age/assets/126118569/342c99fc-ebe6-417d-96c9-936787d29513)
 
 
