@@ -32,3 +32,6 @@ The music industry has faced numerous challenges over the years, but none are as
 Through our research, we found that the COVID-19 outbreak increased the number of streams on the platform, as individuals had more free time available to utilize music streaming services. We have investigated the impact of COVID-19 on music consumption habits using data collected during the pandemic initial impact from 2019 to 2020. 
 
 ![image](https://user-images.githubusercontent.com/126118569/233495504-ea5fb364-5dc9-42ea-ae1e-fbf2e70602d5.png)
+
+
+![pic 1](https://github.com/Kyle-McLeod/MusicGenres-Season-Location-Age/assets/126118569/168cd7f6-8995-438b-a41a-47c87f38c3fb)
